@@ -1,9 +1,10 @@
-﻿namespace MeetingRoomBookingApp.Core.Models
+﻿using MeetingRoomBookingApp.Core.Enums;
+
+namespace MeetingRoomBookingApp.Core.Models
 {
-    public class RoomBookingResult
+    public class RoomBookingResult : RoomBookingBase
     {
-        public string FullName { get; set; }
-        public string Email { get; set; }
-        public DateTime Date { get; set; }
+        public BookingResultFlag Flag { get; set; }
+        public int? RoomBookingId { get; set; }
     }
 }
