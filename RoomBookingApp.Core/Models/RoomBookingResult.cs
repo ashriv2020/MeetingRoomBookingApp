@@ -1,4 +1,5 @@
 ﻿using MeetingRoomBookingApp.Core.Enums;
+using MeetingRoomBookingApp.Domain.BaseModels;
 
 namespace MeetingRoomBookingApp.Core.Models
 {

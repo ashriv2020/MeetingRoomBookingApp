@@ -1,6 +1,7 @@
 ﻿using MeetingRoomBookingApp.Core.Contracts;
-using MeetingRoomBookingApp.Core.Domain;
 using MeetingRoomBookingApp.Core.Models;
+using MeetingRoomBookingApp.Domain;
+using MeetingRoomBookingApp.Domain.BaseModels;
 
 namespace MeetingRoomBookingApp.Core.Infrastructures
 {

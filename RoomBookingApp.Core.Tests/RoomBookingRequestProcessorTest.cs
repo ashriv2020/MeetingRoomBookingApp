@@ -1,8 +1,8 @@
 ﻿using MeetingRoomBookingApp.Core.Contracts;
-using MeetingRoomBookingApp.Core.Domain;
 using MeetingRoomBookingApp.Core.Enums;
 using MeetingRoomBookingApp.Core.Infrastructures;
 using MeetingRoomBookingApp.Core.Models;
+using MeetingRoomBookingApp.Domain;
 using Moq;
 using Shouldly;
 

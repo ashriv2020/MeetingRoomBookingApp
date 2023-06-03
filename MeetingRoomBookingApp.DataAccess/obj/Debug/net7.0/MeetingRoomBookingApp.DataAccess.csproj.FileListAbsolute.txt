@@ -1,0 +1,15 @@
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\bin\Debug\net7.0\MeetingRoomBookingApp.DataAccess.deps.json
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\bin\Debug\net7.0\MeetingRoomBookingApp.DataAccess.dll
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\bin\Debug\net7.0\MeetingRoomBookingApp.DataAccess.pdb
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\bin\Debug\net7.0\MeetingRoomBookingApp.Domain.dll
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\bin\Debug\net7.0\MeetingRoomBookingApp.Domain.pdb
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.csproj.AssemblyReference.cache
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.AssemblyInfoInputs.cache
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.AssemblyInfo.cs
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.csproj.CopyComplete
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.dll
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\refint\MeetingRoomBookingApp.DataAccess.dll
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\MeetingRoomBookingApp.DataAccess.pdb
+D:\Demo\TDD2023\RoomBookingApp\MeetingRoomBookingApp.DataAccess\obj\Debug\net7.0\ref\MeetingRoomBookingApp.DataAccess.dll
